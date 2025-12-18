@@ -29,8 +29,8 @@ GRAM MATRIX STRUCTURE:
     - Diagonal: polarisation-dependent storage efficiency
     - Off-diagonal: coherent polarisation mixing/rotation
 
-Author: Thesis validation script
-Date: 2024
+Author: Candidate No : 286987
+Date: Dec 2025
 """
 
 import numpy as np
